@@ -1,0 +1,12 @@
+{
+    "general": {
+        "offline_mode": true,
+        "token": "token"
+    },
+
+    "net": {
+        "host": "localhost",
+        "port": 5001,
+        "retry_waiting_time": 3
+    }
+}

@@ -1,0 +1,5 @@
+lib/** filter=lfs diff=lfs merge=lfs -text
+libexec/** filter=lfs diff=lfs merge=lfs -text
+plugins/** filter=lfs diff=lfs merge=lfs -text
+resources/** filter=lfs diff=lfs merge=lfs -text
+translations/** filter=lfs diff=lfs merge=lfs -text
